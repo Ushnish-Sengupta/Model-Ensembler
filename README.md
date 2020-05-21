@@ -1,7 +1,7 @@
 # Model-Ensembler
 Code and dataset accompanying the paper "Ensembling ensembles: Spatio-temporally varying ensembling of geophysical models using Bayesian neural network ensemble".
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Method        | Temporal extrapolation | Missing North Pole | Missing South Pole | Missing Tropics | Satellite Tracks | Small Features |
+| ------------- | ---------------------- | ------------------ | ------------------ | --------------- | ---------------- | -------------- |
+| Content Cell  | Content Cell           |                    |                    |                 |                  |                | 
+| Content Cell  | Content Cell           |                    |                    |                 |                  |                |
