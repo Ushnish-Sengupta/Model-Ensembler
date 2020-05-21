@@ -7,3 +7,4 @@ Code and dataset accompanying the paper "Ensembling ensembles: Spatio-temporally
 | Bilinear      | Content Cell           |                    |                    |                 |                  |                |
 | ST Kriging    | Content Cell           |                    |                    |                 |                  |                |
 | Multi-model mean | Content Cell        |                    |                    |                 |                  |                |
+| Weighted mean | Content Cell           |                    |                    |                 |                  |                |
