@@ -3,5 +3,5 @@ Code and dataset accompanying the paper "Ensembling ensembles: Spatio-temporally
 
 | Method        | Temporal extrapolation | Missing North Pole | Missing South Pole | Missing Tropics | Satellite Tracks | Small Features |
 | ------------- | ---------------------- | ------------------ | ------------------ | --------------- | ---------------- | -------------- |
-| Content Cell  | Content Cell           |                    |                    |                 |                  |                | 
-| Content Cell  | Content Cell           |                    |                    |                 |                  |                |
+| BayNNE        | Content Cell           |                    |                    |                 |                  |                | 
+| Bilinear      | Content Cell           |                    |                    |                 |                  |                |
