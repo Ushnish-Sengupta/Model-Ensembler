@@ -1,4 +1,4 @@
-# BayNNE Model Ensembler
+# Ensembling geophysical models using Bayesian Neural Networks
 Code and dataset accompanying the paper "Ensembling ensembles: Spatio-temporally varying ensembling of geophysical models using Bayesian neural network ensemble".
 
 | Method        | Temporal extrapolation | Missing North Pole | Missing South Pole | Missing Tropics | Satellite Tracks | Small Features |
