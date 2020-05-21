@@ -5,3 +5,5 @@ Code and dataset accompanying the paper "Ensembling ensembles: Spatio-temporally
 | ------------- | ---------------------- | ------------------ | ------------------ | --------------- | ---------------- | -------------- |
 | BayNNE        | Content Cell           |                    |                    |                 |                  |                | 
 | Bilinear      | Content Cell           |                    |                    |                 |                  |                |
+| ST Kriging    | Content Cell           |                    |                    |                 |                  |                |
+| Multi-model mean | Content Cell        |                    |                    |                 |                  |                |
