@@ -10,8 +10,8 @@ The following table summarizes the prediction RMSEs in Dobson Units on subsets o
 
 | Method        | Temporal extrapolation | Missing North Pole | Missing South Pole | Missing Tropics | Satellite Tracks | Small Features |
 | ------------- | ---------------------- | ------------------ | ------------------ | --------------- | ---------------- | -------------- |
-| BayNNE        | #4.4# | 4.7 | 6.6 | 2.7 | 2.1 | 3.2 | 
-| Bilinear\*     |  |  |  | 31.2 | 1.7 | 3.4 |
+| BayNNE        | **4.4** | **4.7** | **6.6** | **2.7** | 2.1 | **3.2** | 
+| Bilinear\*     |  |  |  | 31.2 | **1.7** | 3.4 |
 | Spatiotemporal Kriging\*|  |  |  | 7.0 | 2.2 | 3.4 |
 | Multi-model mean | 15.7 | 8.8 | 30.5 | 9.8 | 9.2 | 16.4 |
 | Weighted mean | 8.7 | 12.3 | 22.1 | 8.2 | 8.5 | 10.2 |
