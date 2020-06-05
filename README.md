@@ -3,7 +3,7 @@ This repository contains the code and pretrained models accompanying the paper "
 
 The results of the toy problem may be reproduced by running Toy data/Synthetic.ipynb. 
 
-The models for the ozone data can be trained using Ozone/Training.py. Evaluation.ipynb loads the pre-trained neural network files in the Ozone/Pretrained folder, produces the plots from the paper and evaluates our ensembler against the baselines.
+The models for the ozone data can be trained using Ozone/Training.py. Ozone/Evaluation.ipynb loads the pre-trained neural network files in the Ozone/Pretrained folder, produces the plots from the paper and evaluates our ensembler against the baselines.
 
 The following table summarizes the prediction RMSEs in Dobson Units on subsets of the validation dataset.
 
