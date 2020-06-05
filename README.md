@@ -8,7 +8,7 @@ The models for the ozone data can be trained using Ozone/Training.py. Ozone/Eval
 The following table summarizes the prediction RMSEs in Dobson Units on subsets of the validation dataset.
 
 
-| Method        | Temporal extrapolation | Missing North Pole | Missing South Pole | Missing Tropics | Satellite Tracks | Small Features |
+| Method        | Temporal extrapolation | Missing North Pole | Missing South Pole | Missing Tropics | Satellite Voids | Small Features |
 | ------------- | ---------------------- | ------------------ | ------------------ | --------------- | ---------------- | -------------- |
 | BayNNE        | **4.4** | **4.7** | **6.6** | **2.7** | 2.1 | **3.2** | 
 | Bilinear\*     |  |  |  | 31.2 | **1.7** | 3.4 |
