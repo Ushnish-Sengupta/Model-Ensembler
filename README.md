@@ -1,7 +1,7 @@
 # Ensembling geophysical models using Bayesian Neural Networks
 This repository contains the code and pretrained models accompanying the paper "Ensembling geophysical models using Bayesian neural networks". This code has the following dependencies: python >=3.6, tensorflow-gpu == 1.15, matplotlib == 3.2.1, numpy == 1.18.5, basemap == 0.1.
 
-The results of the toy problem may be reproduced by running Toy data/Synthetic.ipynb. 
+The results of the toy problem may be reproduced by running Toy problem/Synthetic.ipynb. 
 
 The models for the ozone data can be trained using Ozone/Training.py. Ozone/Evaluation.ipynb loads the pre-trained neural network files in the Ozone/Pretrained folder, produces the plots from the paper and evaluates our ensembler against the baselines.
 
