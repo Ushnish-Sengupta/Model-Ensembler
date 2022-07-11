@@ -3,6 +3,9 @@ This repository contains the code and pretrained models accompanying the paper "
 
 The BayNNE for the toy problem can be trained using Toy Problem/Training.py and the plots from the paper may be reproduced by running Toy Problem/Plotting.ipynb. Similarly, the BayNNE for the ozone data can be trained using Ozone/Training.py. Pre-trained neural network model files may be found in Ozone/Pretrained and these can be loaded by Ozone/Loading.ipynb. The plots from the paper and baseline comparisons can be reproduced by running Ozone/Plotting.ipynb. To work with these notebooks, the ozone dataset (https://osf.io/ynax2/download) must be present in the Ozone folder.
 
+An easily runnable (binder) example of the toy example can be found here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mattramos/Toy-bayesian-neural-network-ensemble/master?filepath=toy_dataset_example.ipynb)
+
+
 The following table summarizes the prediction RMSEs in Dobson Units on subsets of the validation dataset.
 
 
